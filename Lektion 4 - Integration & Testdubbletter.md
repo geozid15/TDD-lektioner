@@ -102,6 +102,3 @@ Slutför Integration-lektionen:
 ✅ Implementera egna stubs
 ✅ Skapa spies för verifiering
 ✅ Skriv 3 integrationstester
-
-```
-
