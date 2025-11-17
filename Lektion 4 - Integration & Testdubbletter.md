@@ -103,8 +103,5 @@ Slutför Integration-lektionen:
 ✅ Skapa spies för verifiering
 ✅ Skriv 3 integrationstester
 
-Läsning:
-📖 Granska HELA projektet
-📖 Förbered för den slutliga genomgången
 ```
 
